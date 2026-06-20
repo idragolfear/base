@@ -1,0 +1,8 @@
+{
+  "file": "pima-indians-diabetes-database.csv",
+  "sha256": "bf81d06e0c0512662862248241ab46d7c29258c6ceaad32f3cab56b52a17fdab",
+  "size_bytes": 23106,
+  "n_rows": 768,
+  "n_cols": 9,
+  "created_at": "2026-06-20 21:24:10"
+}
